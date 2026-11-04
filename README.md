@@ -1,6 +1,6 @@
 # 📚 Book Management System
 
-[▶️ Watch Project Explanation Video]()
+[Watch Project Explanation Video](https://drive.google.com/file/d/1lE3rCb7XJg0RDQMiZSSdlUJ73kADdwkt/view?usp=sharing)
 
 A simple RESTful API built using **Node.js, Express.js, MongoDB, and Mongoose** to manage book records with complete CRUD functionality.
 
